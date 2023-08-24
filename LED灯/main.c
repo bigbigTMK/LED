@@ -16,7 +16,7 @@ void Delay500ms()		//@12.000MHz
 		} while (--j);
 	} while (--i);
 }
-
+change 7777 8888
 	void main()
 {
 	while(1)
