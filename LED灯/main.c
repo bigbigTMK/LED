@@ -16,7 +16,7 @@ void Delay500ms()		//@12.000MHz
 		} while (--j);
 	} while (--i);
 }
-
+dododo
 	void main()
 {
 	while(1)
