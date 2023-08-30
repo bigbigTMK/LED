@@ -13,6 +13,9 @@ void Delay500ms()		//@12.000MHz
 		do
 		{
 			while (--k);
+
+
+			k++++++
 		} while (--j);
 	} while (--i);
 }
